@@ -35,18 +35,26 @@ The analysis results are summeriized as follows;
 
 ### Screenshots
 
-####Seiko Factory screenshot
+#### Seiko Factory screenshot
 ![deloitte_dashboard_1](https://github.com/user-attachments/assets/888b63bd-429f-4b6d-aa1a-58e8bca5cc53)
 
 
-####Shenzen Factory Screenshot 
+#### Shenzen Factory Screenshot 
 ![shenzen_factory](https://github.com/user-attachments/assets/7f916230-93a3-477e-a440-f5dfd993bbcb)
 
 
-####Berlin Factory Screenshot
+#### Berlin Factory Screenshot
 ![berlin_factory](https://github.com/user-attachments/assets/a366a93e-455e-4288-b703-a1ea778de5f9)
 
 
-####Meiyo Factory screenshot
+#### Meiyo Factory screenshot
 ![meiyo_factory](https://github.com/user-attachments/assets/6a5e6847-7a0d-4dd9-9107-ca03a7ceccc7)
 
+
+### Recommendations
+- The client needs to determine what the main reason for their machine breakdown in Seiko and Shenzen are.
+   It could be that the machines are;
+    - overused due to high demand,
+    - the operating staff lacks proper training
+    - the machines are old and are due for replacement.
+  Addressig these issues could save the client quiet a lot of operational and maintenance costs.
